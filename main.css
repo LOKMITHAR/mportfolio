@@ -1,0 +1,44 @@
+* {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Space Mono', monospace;
+}
+
+.navbarnav {
+    color: whitesmoke;
+    /* background-color: azure; */
+}
+.section{
+    margin-top: 60px;
+}
+.card{
+    padding: 2px;
+    margin-top: 10px;
+    border: whitesmoke;
+    
+}
+.card-block{
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #1565c0;
+}
+
+a:hover {
+    color: #b1d6ff;
+}
+
+#content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) ;
+    text-align: center;
+    max-width: 520px;
+    padding: 32px;
+    line-height: 1.6em;
+}
+
