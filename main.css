@@ -4,10 +4,10 @@
     font-family: 'Space Mono', monospace;
 }
 
-body {
+/* body {
   overflow: hidden;
 }
-
+ */
 .navbarnav {
     color: whitesmoke;
     /* background-color: azure; */
